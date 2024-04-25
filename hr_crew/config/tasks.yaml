@@ -26,3 +26,11 @@ hr_manager_task:
         "Question 3"
         "Question 4"
         "Question 5
+
+hr_manager_report_task:
+  description: >
+    Read the report "first analysis report" and the {answers} to the {questions}. 
+    Analyze the previous reports, read the "answers" the applicant provided and analyze applicant's suitability for the vacancy.
+  expected_output: >
+    A nicely formatted analysis about the applicants resume and his/her suitability for the vacancy. 
+    Explain your conclusions detailed. The report must be professionally written. In a formal format.

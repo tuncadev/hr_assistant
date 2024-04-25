@@ -1,0 +1,12 @@
+version: '3'
+services:
+  my_streamlit_app:
+    image: cvanalyzer
+    ports:
+      - "8501:8501"
+    environment:
+      - OPENAI_API_KEY=sk-proj-PfTf7uCPUKESiz2sLSZeT3BlbkFJi7bIA7XnZ6Ah04tJICa0s
+    volumes:
+      - pardus:/temp
+volumes:
+  pardus:

@@ -1,0 +1,46 @@
+Vacancy name: Lead Generation Manager / SDR Manager 
+Candidate Suitability Percentage: Agent analysis (70%)
+
+Candidate requirements match: 
+
+Requirement: Experience in B2B sales or Lead Generation or SDR Manager for 2 years
+Agent analysis: 50%
+why: The candidate has experience working as an intern assistant with Sales Manager and Lead generation manager for 6 months, which is not the required 2 years of experience.
+
+Requirement: Advanced level of English
+Agent analysis: 100%
+why: The candidate mentioned attending various online courses and webinars, indicating a commitment to improving their English skills.
+
+Requirement: Excellent negotiation skills
+Agent analysis: 0%
+why: No information found in the resume regarding negotiation skills.
+
+Requirement: Excellent written and verbal communication skills
+Agent analysis: 100%
+why: The candidate mentioned collaborating with clients and conducting research, which requires strong communication skills.
+
+Requirement: Understanding of enterprise buying processes
+Agent analysis: 0%
+why: No information found in the resume regarding understanding of enterprise buying processes.
+
+Requirement: Experience with CRM tools like Pipedrive
+Agent analysis: 0%
+why: No information found in the resume regarding experience with CRM tools like Pipedrive.
+
+Requirement: Experience with sales automation tools like Snov.io, and Sales Navigator.
+Agent analysis: 0%
+why: No information found in the resume regarding experience with sales automation tools like Snov.io and Sales Navigator.
+
+Candidate would-be-plus match: 
+
+Would be plus: Experience in managing complex sales processes that require multiple touches through different channels (LinkedIn, email);
+Agent analysis: 0%
+why: No information found in the resume regarding experience in managing complex sales processes.
+
+Would be plus: Understanding PM processes;
+Agent analysis: 0%
+why: No information found in the resume regarding understanding PM processes.
+
+Would be plus: Our customers are tech and engineering companies of 100+ employees in the US and European markets, so having a sales experience with a similar ICP would be a big plus.
+Agent analysis: 0%
+why: No information found in the resume regarding sales experience with a similar ICP.

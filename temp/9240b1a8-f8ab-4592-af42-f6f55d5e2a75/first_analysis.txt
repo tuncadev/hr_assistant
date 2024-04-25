@@ -1,0 +1,46 @@
+Vacancy name: Lead Generation Manager / SDR Manager 
+Candidate Suitability Percentage: Agent analysis (70%)
+
+Candidate requirements match: 
+
+Requirement: Experience in B2B sales or Lead Generation or SDR Manager for 2 years
+Agent analysis: 50%
+why: The candidate mentions experience as Head of lead generation, which aligns with the requirement for experience in lead generation. However, the specific duration of 2 years is not clearly stated in the resume.
+
+Requirement: Advanced level of English
+Agent analysis: 100%
+why: The candidate mentions collaborating with the development and design team, which indicates a high level of English proficiency required for effective communication in an international setting.
+
+Requirement: Excellent negotiation skills
+Agent analysis: 0%
+why: No information found in the resume regarding negotiation skills.
+
+Requirement: Excellent written and verbal communication skills
+Agent analysis: 100%
+why: The candidate mentions compiling scripts, managing a team, and maintaining weekly reports, which require strong written and verbal communication skills.
+
+Requirement: Understanding of enterprise buying processes
+Agent analysis: 0%
+why: No information found in the resume regarding understanding of enterprise buying processes.
+
+Requirement: Experience with CRM tools like Pipedrive
+Agent analysis: 0%
+why: No information found in the resume regarding experience with CRM tools like Pipedrive.
+
+Requirement: Experience with sales automation tools like Snov.io, and Sales Navigator.
+Agent analysis: 0%
+why: No information found in the resume regarding experience with sales automation tools like Snov.io and Sales Navigator.
+
+Candidate would-be-plus match: 
+
+Would be plus: Experience in managing complex sales processes that require multiple touches through different channels (LinkedIn, email);
+Agent analysis: 0%
+why: No information found in the resume regarding experience in managing complex sales processes.
+
+Would be plus: Understanding PM processes;
+Agent analysis: 0%
+why: No information found in the resume regarding understanding of PM processes.
+
+Would be plus: Our customers are tech and engineering companies of 100+ employees in the US and European markets, so having a sales experience with a similar ICP would be a big plus.
+Agent analysis: 0%
+why: No information found in the resume regarding sales experience with a similar ICP.

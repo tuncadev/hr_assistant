@@ -1,0 +1,17 @@
+Question: Do you have any experience with negotiation skills?
+Answer: yes
+
+Question: Have you worked with CRM tools like Pipedrive before?
+Answer: yes
+
+Question: Are you familiar with sales automation tools such as Snov.io and Sales Navigator?
+Answer: yes
+
+Question: Have you managed complex sales processes that require multiple touches through different channels like LinkedIn and email?
+Answer: yes
+
+Question: Do you have an understanding of PM processes?
+Answer: yes
+
+Question: Have you had sales experience with tech and engineering companies of 100+ employees in the US and European markets?
+Answer: yes
